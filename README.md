@@ -1,4 +1,4 @@
-# Hanggay Prayoga
+![Hanggay prayoga](img/header.jpg)
 
 ## PROFESSIONAL SUMMARY
 
