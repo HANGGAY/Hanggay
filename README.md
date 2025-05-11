@@ -1,5 +1,7 @@
 ## Hanggay Prayoga
 
+<<<<<<< HEAD
+
 ## PROFESSIONAL SUMMARY
 
 Tech-savvy Information Systems graduate with 3+ years of experience in IT support, network configuration, academic systems, and AI-based solutions. Strong background in software development, data analytics, and teaching. Proven track record in solving technical issues, managing IT infrastructures, and delivering impactful solutions for schools and businesses. Adept in Python, Python, SQL, MATLAB, NumPy, Scikit-learn, Seaborn, Matplotlib, XGBoost, Laravel, MVC Architecture and cloud environments.
@@ -34,6 +36,8 @@ Tech-savvy Information Systems graduate with 3+ years of experience in IT suppor
 > > > > > > > ![](https://github-readme-stats.vercel.app/api?username=Hanggay&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/> > > > > > > > ![](https://nirzak-streak-stats.vercel.app/?user=Hanggay&theme=dark&hide_border=true)<br/> > > > > > > > ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanggay&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+<<<<<<< HEAD
 
 [![](https://visitcount.itsvg.in/api?id=Hanggay&icon=0&color=0)](https://visitcount.itsvg.in)
 
