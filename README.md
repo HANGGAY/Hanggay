@@ -22,14 +22,15 @@ Tech-savvy Information Systems graduate with 3+ years of experience in IT suppor
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<h1>Play Games with me</h1>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HANGGAY/Hanggay/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HANGGAY/Hanggay/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HANGGAY/Hanggay/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hanggay/Hanggay/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hanggay/Hanggay/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hanggay/Hanggay/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
 
-<img src="https://raw.githubusercontent.com/HANGGAY/Hanggay/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Hanggay/Hanggay/output/snake.svg" alt="Snake animation" />
 
 ###
