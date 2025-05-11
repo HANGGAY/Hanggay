@@ -30,7 +30,3 @@ Tech-savvy Information Systems graduate with 3+ years of experience in IT suppor
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Hanggay/Hanggay/output/snake.svg" alt="Snake animation" />
-
-###
